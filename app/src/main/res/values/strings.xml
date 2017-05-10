@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">facebookshare</string>
+    <string name="successfully_posted_post">Post ID: %1$s</string>
+    <string name="ok">OK</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="permission_not_granted">permission not granted</string>
+    <string name="facebook_app_id">202434820267491</string>
+    <string name="hello_user">Hullo %1$s!</string>
+</resources>
